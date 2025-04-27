@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files and large data
+*.h5
+*.hdf5
+*.pb
+cotton_disease_model/
+best_cotton_model.h5
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data
+Cotton_Dataset
