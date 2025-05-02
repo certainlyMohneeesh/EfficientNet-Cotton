@@ -15,6 +15,7 @@ __pycache__/
 *.h5
 *.hdf5
 *.pb
+*.keras
 cotton_disease_model/
 best_cotton_model.h5
 
